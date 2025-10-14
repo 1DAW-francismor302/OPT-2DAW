@@ -7,7 +7,7 @@ fi
 
 usuario=$1;
 
-if [ grep "^$usuario:" "/etc/passwd" ]; then
+if grep "^$usuario:" "/etc/passwd" ; then
     echo "El usuario introducido existe"
 else
     echo "El usuario introducido no existe"
