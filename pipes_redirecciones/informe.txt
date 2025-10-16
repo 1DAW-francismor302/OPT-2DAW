@@ -1,0 +1,8 @@
+Mon, Oct 13, 2025  6:33:29 PM
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git   48G   32G   17G  66% /
+MemTotal:        4193756 kB
+MemFree:         1415256 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:        4193756 kB

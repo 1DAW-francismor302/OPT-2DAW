@@ -1,0 +1,27 @@
+ls: cannot access '/directorio_inventado': No such file or directory
+/etc:
+bash.bashrc
+DIR_COLORS
+docx2txt.config
+fstab
+gitattributes
+gitconfig
+hosts
+inputrc
+install-options.txt
+msystem
+msystem.d
+mtab
+nanorc
+networks
+nsswitch.conf
+package-versions.txt
+pkcs11
+pki
+profile
+profile.d
+protocols
+services
+ssh
+tigrc
+vimrc

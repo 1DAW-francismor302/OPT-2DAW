@@ -1,0 +1,7 @@
+total 2
+-rwxr-xr-x 1 usuario 197121 32 Oct 13 17:46 ej1.sh
+-rw-r--r-- 1 usuario 197121  6 Oct 13 17:46 listado.txt
+total 3
+-rwxr-xr-x 1 usuario 197121  31 Oct 13 17:48 ej1.sh
+-rwxr-xr-x 1 usuario 197121  32 Oct 13 17:48 ej2.sh
+-rw-r--r-- 1 usuario 197121 115 Oct 13 17:46 listado.txt
