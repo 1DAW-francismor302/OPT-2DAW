@@ -1,2 +1,2 @@
 #!/bin/bash
-grep whoami | ps aux | wc -l
+ps aux | grep $(whoami) | wc -l
